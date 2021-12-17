@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IstyRsquared
+- 👋 Hi, I’m Isty Rysava
 - 👀 I’m interested in disease ecology, evolution, control and management
 - 📫 How to reach me: via rysava@wisc.edu or istyrysava@gmail.com
 
